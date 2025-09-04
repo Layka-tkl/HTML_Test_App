@@ -1,0 +1,19 @@
+.name{
+    color: aqua
+}
+.period{
+    color: aquamarine;
+}
+.hoddy{
+    color:azure;
+}
+#word{
+    color: cadetblue;
+    text-indent:1.5%
+}
+#word_list{
+    color: cadetblue;
+}
+body{
+    background-color: darkslategray;
+}
